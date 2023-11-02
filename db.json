@@ -83,7 +83,7 @@
             "dir": "N. Kishore"
         }
     ],
-    "category": [
+    "category": 
         {
             "Advertising": [
                 "Online",
@@ -177,6 +177,6 @@
                 "Bank Merchant Charges"
             ]
         }
-    ],
+    ,
     "selectedCategory": []
 }
